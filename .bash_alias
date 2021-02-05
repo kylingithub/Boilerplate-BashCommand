@@ -1,0 +1,8 @@
+alias flow="git flow"
+alias feature="flow feature"
+alias dj="python manage.py"
+alias djrun="dj runserver"
+alias djtest="dj test"
+alias djstatic="dj collectstatic"
+alias djmakedb="dj makemigrations"
+alias djmigrate="dj migrate"
